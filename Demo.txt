@@ -6,6 +6,7 @@ we are working on GIT functionality
 Topic covered
 oops
 Collections
+string
 
 
 need to update code
